@@ -35,7 +35,7 @@ https://portfolio-nu-bice-89.vercel.app/
   <a href="" target="_blank"><img src="/Assests/html-5-svgrepo-com.svg" alt="Arduino" width="40" height="40"/></a>
   <a href="" target="_blank"><img src="/Assests/css-3-svgrepo-com.svg" alt="Arduino" width="40" height="40"/></a>
   <a href="" target="_blank"><img src="/Assests/iot-core-svgrepo-com.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="" target="_blank"><img src="/Assests/nextjs-svgrepo-com.svg" alt="Arduino" width="40" height="40"/></a>
+  <a href="" target="_blank"><img src="/Assests/nextjs-icon-svgrepo-com.svg" alt="Arduino" width="40" height="40"/></a>
 </p>
 
 ---
